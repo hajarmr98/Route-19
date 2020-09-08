@@ -1,0 +1,52 @@
+.MuiFormControlLabel-root{
+    display: flex;
+    flex-direction: row-reverse;
+    text-align: left;
+    padding: 0% 5%;
+}
+.Cuidado{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.Icon{
+    margin: 2% 5% 2% 16px;
+    align-self: center;
+}
+
+.SwitchContainer{
+    position: absolute;
+    background-color: #FAFBFC;
+    /* display: grid; */
+    /* padding: 4% 2%; */
+    grid-template-columns: 100%;
+    bottom: 0px;
+    width: 100%;
+    height: 16%;
+}
+
+.Line {
+    display: flex;
+    flex-direction: row;
+    /* display: grid;
+    grid-template-columns:10% 60% 28% ; */
+
+}
+
+.Btn{
+    margin-right: 0px;
+ 
+}
+
+.Text{
+    padding: 2% 5%;
+    align-self: center;
+    text-align: left;    
+    font-size: 13px;
+    margin: 0;
+}
+
+.MuiFormControlLabel-root{
+    margin: 0px;
+    margin-right: 0px;
+}

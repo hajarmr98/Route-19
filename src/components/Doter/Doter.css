@@ -1,0 +1,20 @@
+.section{
+    width: 161px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+}
+.dot{
+    margin-right: 5px;
+    margin-left: 5px;
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    border: 1px solid #a5adba;
+}
+.selected-dot{
+    border: solid 0.5px #0065ff;
+    background-color: #0065ff;
+}

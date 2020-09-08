@@ -1,0 +1,44 @@
+
+#goback-sentence {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 13px;
+    font-weight: bold;
+    color: #0065FF;
+
+}
+#goback-container-child{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 52px;
+    margin-top: 52px;
+    width: 120px;
+    height: 48px;
+    box-shadow: 0px 2px 8px rgba(0, 82, 204, 0.48);
+    border-radius: 5px;
+    background-color: white;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+}
+#goback-container-child:hover{
+    cursor: pointer;
+}
+#goback-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: 20px;
+    border-radius: 5px;
+
+}
+#goback-image{
+    margin-top: 8px;
+}
+
+@media screen and (max-width: 768px){
+    #goback-container-child{
+    margin-left: 20px;
+    margin-top: 20px;
+    }
+  }

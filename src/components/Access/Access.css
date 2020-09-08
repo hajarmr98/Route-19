@@ -1,0 +1,16 @@
+
+.modal-dialog.access {
+        border-radius: 2%;
+        position: fixed;       
+        bottom: 0;
+        /* transform: translate(-50%); */
+        min-width: 50%;
+      }
+
+.modal-buttons.access{
+    display: flex;
+    flex-direction: column;
+}
+.acces{
+    margin-top: 50%;
+}

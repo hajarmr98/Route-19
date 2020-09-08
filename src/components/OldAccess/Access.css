@@ -1,0 +1,25 @@
+
+.btn-secondary.btn-xxl.acces{
+    background-color:#0065ff;
+    color: white;
+    border: none;
+    font-weight: bold;  
+    align-self: center;    
+    } 
+
+.modal-dialog.access {
+        background-color: tomato;
+        border-radius: 2%;
+        position: fixed;       
+        bottom: 0;
+        transform: translate(-50%);
+        width: 96%;
+      }
+
+.modal-buttons.access{
+    display: flex;
+    flex-direction: column;
+}
+.acces{
+    margin-top: 50%;
+}

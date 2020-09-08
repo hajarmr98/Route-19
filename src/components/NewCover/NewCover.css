@@ -1,0 +1,49 @@
+.newCover-container{
+    margin:0;
+}
+.newcover{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 100px 25% 0 25%;
+}
+.newcover-title {
+    font-weight: bold;
+    color: #333333;
+    align-self: center;
+    font-size: 23px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.newcover-button {
+    margin-top: 30px;
+    margin-left: 30%;
+    margin-right: 30%;
+    /* width: 100%; */
+    height: 40px;
+    background-color: #0065ff;
+    color: white;
+    border: none;
+    box-sizing: border-box;
+    border-radius: 1px;
+}
+.newcover-image {
+    align-self: center;
+}
+.newcover-last{
+    margin-top: 45px;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 0.8em;
+    text-align: center;
+}
+
+@media screen and (max-width: 768px){
+    .newcover-title{
+        margin-top: 29%;
+    }
+  }

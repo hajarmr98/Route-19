@@ -1,0 +1,18 @@
+.geo-modal {
+  display: flex;
+  flex-direction: column;
+  min-width: 50%;
+}
+
+.modal-geo-text {
+  font-size: 16px;
+  margin: 60px 13% 18px 13%;
+  text-align: center;
+}
+
+
+.modal-image-geo {
+  margin-top: 48px;
+  align-self: center;
+}
+  

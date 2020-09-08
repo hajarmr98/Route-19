@@ -1,0 +1,12 @@
+.my-modal {
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    
+  } 
+  
+  .modal-image-content {
+    align-self: center;
+    margin-top: 40px;
+  }
+  

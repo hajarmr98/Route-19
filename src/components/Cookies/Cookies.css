@@ -1,0 +1,40 @@
+.modal{
+    min-height: 100%;
+}
+
+.cookies-modal{
+    display: flex;
+    flex-direction: column;
+    min-width: 50%;
+}
+#cookies-modal{
+    min-width: 30%;
+}
+.close{
+    display: none;
+}
+.modal-body-title{
+    align-self: center;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.modal-body-image{
+    align-self: center;
+    margin-bottom: 20px;
+}
+.modal-body-text{
+    align-self: center;
+    text-align: center;
+    font-size: 18px;
+    margin: 0 13% 0 13%;
+}
+
+.modal-footer{
+    flex-direction: column;
+    
+}
+.modal.fade.show {
+    background-color: rgba(0, 82, 204, 0.267);
+}

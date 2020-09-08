@@ -1,0 +1,27 @@
+.MapNavBar{
+    flex-direction: row-reverse;
+    height: 8.75%;
+    color: aliceblue
+    ;
+    
+}
+.Right{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+#appLogo{
+    text-align: start;
+}
+
+#AppBar{
+    margin-right: 0px;
+}
+
+.MenuLogo{
+    width: 30px;
+    fill:#0065ff;
+}
+.MenuLabel{
+    margin-block-start: 1.2em;
+}

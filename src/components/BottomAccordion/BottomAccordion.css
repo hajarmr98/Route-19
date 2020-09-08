@@ -1,0 +1,14 @@
+.MuiPaper-root .MuiPaper-outlined{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-around;
+    margin: 0px;
+    padding: 0px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    z-index: 1;
+
+    }

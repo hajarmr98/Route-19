@@ -1,0 +1,30 @@
+[
+    {
+        "city":"Madrid",
+        "address":"Calle Pelayo 46",
+        "coordinates": [-3.708903, 40.431632]
+    },{
+        "city":"Madrid",
+        "address":"5th Avenue 5",
+        "coordinates": [-3.710426, 40.431697]
+    },{
+        "city":"Madrid",
+        "address":"Gran Vía 10",
+        "coordinates": [-3.711735, 40.431738]
+    },{
+        "city":"Madrid",
+        "address":"Calle del Conde de Romanones 8",
+        "coordinates": [-3.712808, 40.431762]
+
+    },{
+        "city":"Madrid",
+        "address":"Calle del Conde de Romanones 5",
+        "coordinates": [-3.712806, 40.431759]
+
+    },{
+        "city":"Madrid",
+        "address":"Recoletos 15",
+        "coordinates": [-3.712497, 40.432170]
+        }
+]
+

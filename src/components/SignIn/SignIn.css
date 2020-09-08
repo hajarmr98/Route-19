@@ -1,0 +1,91 @@
+.form-in-grandpa{
+    display: flex;
+    flex-direction: column; 
+}
+.form-in-dad {
+    display: flex;
+    flex-direction: column;
+    margin-top: 5%;
+    align-self: center;
+    width: 50%;
+
+}
+.form-in {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.login-title {
+    font-size: 18px;
+    color: #4c5563;
+    font-weight: 500;
+    margin-bottom: 36px;
+    
+}
+.login-email-label{
+    
+    font-size: 16px;
+    color: #4c5563;
+    font-weight: 500;
+}
+.login-password-label{
+    font-size: 16px;
+    color: #4c5563;
+    font-weight: 500;
+}
+#login-button {
+    margin-top: 110px;
+    height: 48px;
+    color: white;
+    background-color: #0065ff;
+    border: none;
+    font-weight: bold;  
+ 
+}
+#login-signin-button{
+    height: 48px;
+    background-color: white;
+    color: #0065ff;
+    border: none;
+    font-weight: bold;  
+    margin-top: 10px;
+    max-width: 20% !important;
+
+}
+.login-email-input{
+    width: 100%;
+    height: 40px;
+    border-radius: 1px;
+    border: solid 0.5px #4c9aff;
+    background-color: #ffffff;
+    margin-bottom: 25px;
+    outline: none;
+}
+.login-email-input:focus{
+    border: 2px solid #0052cc;
+    outline: none;
+}
+
+.login-password-input{
+    width: 100%;
+    font-size: 15px;
+    height: 40px;
+    border-radius: 1px;
+    border: solid 0.5px #4c9aff;
+    background: url('./eye_icon.svg') no-repeat scroll 290px 7px;
+    padding-left:30px;
+    margin-bottom: 20px;
+
+}
+
+.login-password-input:focus{
+    border: 2px solid #0052cc;
+    outline: none;
+}
+#forgotten-pass {
+    font-size: 16px;
+    color: #6b778c;
+    text-align: center;
+}

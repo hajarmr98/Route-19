@@ -1,0 +1,18 @@
+ 
+  .modal-body-content {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .modal-first-sentence {
+    margin-top: 20px;
+    margin-bottom: 32px;
+    align-self: center;
+    font-weight: bold; 
+    font-size: 24px;
+  }
+  .modal-second-sentence {
+    margin-bottom: 82px;
+    align-self: center;
+    font-size: 18px;
+  }
